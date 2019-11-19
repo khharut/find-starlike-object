@@ -4,4 +4,4 @@
 ![](https://github.com/khharut/find-starlike-object/blob/master/star_hubble.jpg?raw=true)
 
 # Star pattern detected
-![](https://github.com/khharut/find-starlike-object/blob/master/detected.jpg?raw=true)
+![](https://github.com/khharut/find-starlike-object/blob/master/regions.jpg?raw=true)
